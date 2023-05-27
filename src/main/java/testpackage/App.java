@@ -6,7 +6,11 @@ package testpackage;
  */
 public class App 
 {
-    public static void main( String[] args )
+    /**
+     * Function to generate Fibonacci Series
+     * @param args
+     */
+	public static void main( String[] args )
     {
         int n = 10;
         System.out.println("Fibonacci Series ");
